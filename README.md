@@ -1,4 +1,4 @@
-# 2017_MAKESUSHI
+# MAKE SUSHI!
 
 ## 概要
 2017年制作
